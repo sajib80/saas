@@ -1,0 +1,6 @@
+{
+  "name": "SynapseAI SaaS Platform",
+  "description": "Enterprise AI SaaS platform featuring streaming AI chat, prompt studio, document RAG knowledge base, team workspace, token analytics, and Stripe test billing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
